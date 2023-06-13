@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175073475201",
+    "project_id": "gogorideapp",
+    "storage_bucket": "gogorideapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175073475201:android:78169c615ce767865aab80",
+        "android_client_info": {
+          "package_name": "com.example.gogorideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175073475201-ov78p3e6u1m8ghfelph8q9r545sn2vf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-rLIbs3x4hTbSu7y6Vh1eVhJBY0JqMj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175073475201-ov78p3e6u1m8ghfelph8q9r545sn2vf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
