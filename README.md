@@ -1,16 +1,47 @@
-# gogorideapp
+# EPharmacyAppUI
 
-A new Flutter project.
+ScreenShots
 
-## Getting Started
+1.SignUpPage
 
-This project is a starting point for a Flutter application.
+![signup](signup.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+2.SignInPage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![signin](signin.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.HomePage
+
+![home](home.PNG)
+
+4.HommPage
+
+![homm](homm.PNG)
+
+5.DetailPage
+
+![detail](detail.PNG)
+
+6.DetaillPage
+
+![detaill](detaill.PNG)
+
+5.DetailllPage
+
+![detailll](detailll.PNG)
+
+
+Packages
+
+  firebase_core: ^2.13.1
+
+  firebase_auth: ^4.6.2
+
+  cloud_firestore: ^4.8.0
+
+  firebase_storage: ^11.2.2
+
+  provider: any
+
+
+
